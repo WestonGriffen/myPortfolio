@@ -1,0 +1,130 @@
+
+
+#Header{
+  
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#headerh1{
+    padding-left: 300px;
+}
+
+#headerh4{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20%;
+    padding-top: 1%;
+}
+
+#ME{
+    height: 250px;
+    margin-top: 40px;
+}
+
+#About-me {
+  
+    display: flex;
+    flex-direction: row;
+}
+#MeList{
+   list-style-type: none;
+   margin-left: 10px;
+   margin-top: 75px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+}
+
+#Resume{
+    height: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1000px;
+    margin-top: 110px;
+    border-radius: 10px;
+}
+
+#Gitlogo{
+   height: 100px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100px;
+  
+}
+
+#HarryList{
+    list-style-type: none;
+}
+
+#HarrypotterIMG{
+    display: flex;
+    justify-content: center;
+    padding-left: 60px;
+    width: 200px;
+    height: 250px;
+   
+}
+
+#HarrypotterP{
+    border-color: black;
+    width: 250px;
+    padding-left: 25px;
+    border: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+
+
+
+
+#HarryLink{
+    display: block;
+    
+    width: 250px;
+}
+
+#Amazon{
+ 
+    height: 250px;
+    width: 350px;
+    position: relative;
+    left: 1500px; 
+    bottom: 350px;
+}
+
+#AmazonLink{
+    display: block;
+    height: 250px;
+    width: 350px;
+   position: relative;
+   left: 1500px;
+   bottom: 600px;
+}
+
+#AmazonP{
+    border-color: black;
+    width: 250px;
+    border: 10px;
+    position: relative;
+    left: 1550px;
+    bottom: 600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Contact{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 800px;
+}
+
+#contactList{
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 750px;
+}
